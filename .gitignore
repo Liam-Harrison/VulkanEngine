@@ -10,7 +10,7 @@
 *.user
 *.userosscache
 *.sln.docstates
-/vcpkg.json
+#/vcpkg.json
 /vcpkg-configuration.json
 
 # fuzzing
