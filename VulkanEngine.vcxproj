@@ -155,7 +155,6 @@
     <ClCompile Include="dependencies\imgui\imgui_draw.cpp" />
     <ClCompile Include="dependencies\imgui\imgui_tables.cpp" />
     <ClCompile Include="dependencies\imgui\imgui_widgets.cpp" />
-    <ClCompile Include="engine\Families.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="engine\VulkanEngine.cpp" />
   </ItemGroup>
@@ -168,7 +167,7 @@
     <ClInclude Include="dependencies\imgui\imstb_rectpack.h" />
     <ClInclude Include="dependencies\imgui\imstb_textedit.h" />
     <ClInclude Include="dependencies\imgui\imstb_truetype.h" />
-    <ClInclude Include="engine\Families.h" />
+    <ClInclude Include="engine\QueueFamilyIndices.h" />
     <ClInclude Include="engine\VulkanEngine.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

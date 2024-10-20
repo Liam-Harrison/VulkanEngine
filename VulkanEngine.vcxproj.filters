@@ -45,9 +45,6 @@
     <ClCompile Include="engine\VulkanEngine.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="engine\Families.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="dependencies\imgui\imstb_truetype.h">
@@ -77,7 +74,7 @@
     <ClInclude Include="engine\VulkanEngine.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="engine\Families.h">
+    <ClInclude Include="engine\QueueFamilyIndices.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
