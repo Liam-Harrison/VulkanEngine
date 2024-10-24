@@ -14,7 +14,7 @@
 - Open Project Properties
   - C/C++
     - General
-       - Change `additonal Include Directories` to point to your Vulkan SDK and GLFW include folders.
+       - Change `Additonal Include Directories` to point to your Vulkan SDK and GLFW include folders.
   - Linker
     - General
       - Change `Additonal Library Directories` to point to your Vulkan SDK and GLFW library folders.
